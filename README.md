@@ -6,3 +6,6 @@ Git cd - entrar
 Git init - iniciar
 Git add-  adicionar
 Git commit - criar commit
+Git commit-m - inclusão  de anotações 
+Git push origin
+
